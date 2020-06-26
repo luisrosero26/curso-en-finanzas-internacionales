@@ -1,0 +1,47 @@
+completion_text: |-
+  Muy bien, esperamos que lo hayas logrado.
+description: |-
+  Quiz primera semana, debe aprobarse para continuar a la siguiente semana.
+groups:
+- id: intro
+  pages:
+  - content: " "
+    id: welcome
+    title: Quiz primera semana
+    type: Page
+- id: quiz_start
+  pages:
+  - answers: [<plain>si, <plain>Si]
+    id: quizquestion18
+    prompt: ''
+    title: "\xBFQu\xE9 es la contabilidad nacional y la balanza de pagos parte del\
+      \ curso?"
+    type: TextQuestion
+    value: 5.0
+  - choices: ["~CORRECT~ 5. Carb\xF3n", 4. Euro, ~CORRECT~ 3. Maiz, 2. Dolar, ~CORRECT~
+        1. Azucar]
+    credit_mode: exact
+    id: quizquestion19
+    prompt: ''
+    shuffle: true
+    title: "\xBFCu\xE1l de las siguientes palabras no son divisas?"
+    type: MultipleChoiceQuestion
+    value: 5.0
+  shuffle: false
+rules:
+  access:
+  - message: "\xA1Bienvenidos! Este mensaje es tra\xEDdo a usted por las reglas de\
+      \ acceso."
+    permissions: [view, submit_answer, end_session, see_correctness, see_answer_after_submission]
+  grade_aggregation_strategy: max_grade
+  grade_identifier: quiz8
+  grading:
+  - {credit_percent: 20}
+  start:
+  - if_before: 2020-07-11 18:16:50+00:00
+    if_has_fewer_sessions_than: 2
+    if_has_role: [student, ta, instructor]
+    may_list_existing_sessions: true
+    may_start_new_session: true
+  - {may_list_existing_sessions: true, may_start_new_session: false}
+title: Quiz primera semana
