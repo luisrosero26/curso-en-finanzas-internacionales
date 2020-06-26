@@ -1,0 +1,38 @@
+chunks:
+- content: ''
+  flows:
+  - flow_id: flow6
+    next_flow: quiz8
+    pages:
+    - {flow_id: page13, title: "D\xEDa 1 - Fundamentes b\xE1sicos"}
+    - {flow_id: page14, title: Dia 2 - Primera parte}
+    - {flow_id: page15, title: Dia 3 - Desarrollo}
+    title: Semana 1
+    title_next_flow: Ir al Quiz
+  id: welcome
+  introduction: "<p style=\"font-weight: lighter; line-height: 25px; font-size: 16px;\
+    \ color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif;\">Los\
+    \ procesos de internacionalizaci\xF3n cada vez son m\xE1s frecuentes entre las\
+    \ empresas gracias a la globalizaci\xF3n.&nbsp;Es por esto, que muchos&nbsp;negocios\
+    \ y organizaciones deciden apostar por expandirse, puesto que&nbsp;el&nbsp;<strong>mercado\
+    \ exterior les ofrece grandes oportunidades y ventajas competitivas</strong>.&nbsp;</p><p\
+    \ style=\"font-weight: lighter; line-height: 25px; font-size: 16px; color: rgb(51,\
+    \ 51, 51); font-family: &quot;Open Sans&quot;, sans-serif;\">Es por este motivo,\
+    \ que las empresas requieren de profesionales que sean capaces de&nbsp;<strong>gestionar&nbsp;todos\
+    \ los&nbsp;procedimientos financieros</strong>&nbsp;que entran en juego en&nbsp;una&nbsp;empresa,\
+    \ para as\xED, poder&nbsp;<strong>prever el impacto</strong>&nbsp;que tendr\xED\
+    a llevar a cabo una internacionalizaci\xF3n para&nbsp;esta&nbsp;y&nbsp;<strong>si\
+    \ es el mejor momento</strong>&nbsp;para&nbsp;hacerlo.&nbsp;</p><p style=\"font-weight:\
+    \ lighter; line-height: 25px; font-size: 16px; color: rgb(51, 51, 51); font-family:\
+    \ &quot;Open Sans&quot;, sans-serif;\">Con el&nbsp;<strong>Curso en Finanzas Internacionales</strong>&nbsp;aprender\xE1\
+    s a analizar, medir, gestionar y controlar el impacto que podr\xEDa tener una\
+    \ internacionalizaci\xF3n para la empresa, as\xED como, a llevar a cabo procesos\
+    \ contables internacionales.</p><p style=\"font-weight: lighter; line-height:\
+    \ 25px; font-size: 16px; font-family: &quot;Open Sans&quot;, sans-serif;\"><span\
+    \ style=\"color: rgb(51, 51, 51);\">Este curso forma parte del&nbsp;</span><font\
+    \ style=\"\">Master en Finanzas</font>:<b style=\"\">&nbsp;<span style=\"color:\
+    \ rgb(51, 51, 51);\">Master en Direcci\xF3n Financiera y Controlling</span></b><span\
+    \ style=\"color: rgb(51, 51, 51);\">. Si quieres ampliar tu formaci\xF3n, consulta\
+    \ el programa del&nbsp;Master completo.</span></p>"
+  rules: []
+  title: Curso en Finanzas Internacionales
