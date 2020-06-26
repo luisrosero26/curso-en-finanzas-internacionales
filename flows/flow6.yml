@@ -1,0 +1,37 @@
+completion_text: "<p>Has finalizado con \xE9xito los contenidos de \xE9sta semana.\
+  \ Continua con la siguiente semana.</p>"
+description: "Internacionalizaci\xF3n. Impacto en gesti\xF3n financiera"
+next_flow_id: quiz8
+next_flow_title: Ir al Quiz
+pages:
+- content: "<p>La contabilidad nacional y la balanza de pagos\r\n</p><p>1.1. La contabilidad\
+    \ nacional.\r\n</p><p> 1.2. La contabilidad de la renta nacional en una econom\xED\
+    a\r\nabierta.\r\n</p><p>1.3. La contabilidad de la balanza de pagos.&nbsp;<br></p>"
+  id: page13
+  title: "D\xEDa 1 - Fundamentes b\xE1sicos"
+  type: Page
+- content: "<p>Los tipos de cambio y el mercado de divisas: un enfoque de\r\nactivos\r\
+    \n</p><p>2.1 Los tipos de cambio y las transacciones internacionales.\r\nEl mercado\
+    \ de divisas.\r\n</p><p>2.2. La demanda de activos en divisas.\r\n</p><p>2.3.\
+    \ El equilibrio en el mercado de divisas: la condici\xF3n de la\r\nparidad no\
+    \ cubierta de intereses.\r\n</p><p>2.4. Los tipos de inter\xE9s, las expectativas\
+    \ y el equilibrio.\r\n</p><p>2.5. El mercado de divisas a plazo y la condici\xF3\
+    n de la paridad\r\ncubierta de intereses.&nbsp;<br></p>"
+  id: page14
+  title: Dia 2 - Primera parte
+  type: Page
+- content: "<p>El dinero, los tipos de inter\xE9s y los tipos de cambio\r\n</p><p>3.1.\
+    \ La definici\xF3n del dinero. La demanda de dinero de los\r\nparticulares. La\
+    \ demanda de dinero agregada.\r\n</p><p>3.2. El tipo de inter\xE9s de equilibrio:\
+    \ la interacci\xF3n de la oferta\r\ny la demanda de dinero.\r\n</p><p>3.3. La\
+    \ oferta monetaria y el tipo de cambio a corto plazo.\r\n</p><p>3.4. El dinero,\
+    \ el nivel de precios y el tipo de cambio a largo\r\nplazo.<br></p>"
+  id: page15
+  title: Dia 3 - Desarrollo
+  type: Page
+rules:
+  access:
+  - if_has_role: [ta, student, instructor]
+    permissions: [view]
+  grade_identifier: null
+title: Semana 1
