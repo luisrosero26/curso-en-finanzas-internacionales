@@ -4,6 +4,21 @@ description: "Internacionalizaci\xF3n. Impacto en gesti\xF3n financiera"
 next_flow_id: quiz8
 next_flow_title: Ir al Quiz
 pages:
+- content: "<p>Una vez cursada la asignatura, el estudiante deber\xEDa ser capaz de:\r\
+    \n<br>\u2022 Entender y analizar los factores determinantes a corto y a largo\r\
+    \nplazo del tipo de cambio nominal.\r\n</p><p>\u2022 Entender y analizar los factores\
+    \ determinantes a largo plazo\r\ndel tipo de cambio real como indicador de la\
+    \ competitividad\r\nglobal de una econom\xEDa abierta.\r\n</p><p>\u2022 Entender\
+    \ el papel de la pol\xEDtica monetaria y de la pol\xEDtica fiscal\r\nen la determinaci\xF3\
+    n del saldo de las balanzas por cuenta\r\ncorriente, la renta nacional y el tipo\
+    \ de cambio nominal de\r\nequilibrio.&nbsp;</p><p>\u2022 Analizar los factores\
+    \ que pueden ayudar a explicar los\r\ndesencadenantes de las crisis financieras\
+    \ internacionales.\r\n</p><p>\u2022 Comprender las ventajas y los inconvenientes\
+    \ relativos a la\r\nadopci\xF3n de un r\xE9gimen de tipos de cambios flexibles\
+    \ frente a\r\nuno de tipos de cambios fijos.<br></p>"
+  id: intro
+  title: INICIO
+  type: Page
 - content: "<p>La contabilidad nacional y la balanza de pagos\r\n</p><p>1.1. La contabilidad\
     \ nacional.\r\n</p><p> 1.2. La contabilidad de la renta nacional en una econom\xED\
     a\r\nabierta.\r\n</p><p>1.3. La contabilidad de la balanza de pagos.&nbsp;<br></p>"
