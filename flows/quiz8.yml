@@ -14,8 +14,7 @@ groups:
   - answers: [<plain>si, <plain>Si]
     id: quizquestion18
     prompt: ''
-    title: "\xBFQu\xE9 es la contabilidad nacional y la balanza de pagos parte del\
-      \ curso?"
+    title: "\xBFEs la contabilidad nacional y la balanza de pagos parte del curso?"
     type: TextQuestion
     value: 5.0
   - choices: ["~CORRECT~ 5. Carb\xF3n", 4. Euro, ~CORRECT~ 3. Maiz, 2. Dolar, ~CORRECT~
