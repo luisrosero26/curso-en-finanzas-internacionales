@@ -12,19 +12,19 @@ groups:
 - id: quiz_start
   pages:
   - answers:
-    - <plain>si
     - <plain>Si
+    - <plain>si
     id: quizquestion18
     prompt: ''
     title: "\xBFEs la contabilidad nacional y la balanza de pagos parte del curso?"
     type: TextQuestion
     value: 5.0
   - choices:
-    - "~CORRECT~ 5. Carb\xF3n"
-    - 4. Euro
-    - ~CORRECT~ 3. Maiz
-    - 2. Dolar
     - ~CORRECT~ 1. Azucar
+    - 2. Dolar
+    - ~CORRECT~ 3. Maiz
+    - 4. Euro
+    - "~CORRECT~ 5. Carb\xF3n"
     credit_mode: exact
     id: quizquestion19
     prompt: ''
